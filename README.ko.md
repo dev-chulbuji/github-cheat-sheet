@@ -393,8 +393,6 @@ GitHub에서 많이 사용하는 에모지 탑 5위는 이렇습니다.
 ![Alt Text](https://github.com/{user}/{repo}/raw/master/path/to/image.gif)
 ```
 
-![Peter don't care](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
-
 모든 이미지는 GitHub에서 캐시합니다. 그래서 호스트가 죽어도 이미지는 여전히 남습니다.
 
 #### Embedding Images in GitHub Wiki
